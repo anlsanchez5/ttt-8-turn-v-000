@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-require.relative '../lib/turn.rb'
+require_relative '../lib/turn.rb'
 
 
