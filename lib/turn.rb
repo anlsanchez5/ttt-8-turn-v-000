@@ -42,6 +42,6 @@ def turn(board)
   if valid_move?(board,index) == false
     turn(board)
   else
-    puts "continue with next error code Angelica"
+    move(board,index)
   end
 end
