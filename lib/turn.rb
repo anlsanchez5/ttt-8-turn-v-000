@@ -43,4 +43,5 @@ def turn(board)
     turn(board)
   else
     puts "continue with next error code Angelica"
+  end
 end
